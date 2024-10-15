@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <MUIButton></MUIButton>
+        <MUIButton>CACA</MUIButton>
       </header>
     </div>
   );
